@@ -1,0 +1,822 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "Sbw9ju46i0b1scNr9RH5_I8wvyY",
+    "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNJY2dHQUFTQlFpSUlCZ0FFZ1VJblNBWUFSSUZDSWtnR0FBU0JRaW9JQmdBR0FBaURnb01DSWo3aWFBR0VLRFFvYXdE",
+    "pageInfo": {
+        "totalResults": 20,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "rLMtHDCyhYa3mIcY-dxVWmwfxpk",
+            "id": "UgxzQM1vXPdRqY1k2bB4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "2e4wlX9g-KCb-XBUuJwX--ENbT8",
+                    "id": "UgxzQM1vXPdRqY1k2bB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "The mask wearing jabbed cashless 666 society,... read the Bible.",
+                        "textOriginal": "The mask wearing jabbed cashless 666 society,... read the Bible.",
+                        "authorDisplayName": "@etienne7774",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSdulrezrenjX2i5gvTxYDHeMZaU0ebxmvUyQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@etienne7774",
+                        "authorChannelId": {
+                            "value": "UCRJwf2D6LgN5rgGX7VBeh4w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-02-07T12:14:00Z",
+                        "updatedAt": "2024-02-07T12:14:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "sOpzMliHCWlfAjOnsMzbv64IAFk",
+            "id": "UgxJRPGIe1qACkU9vrV4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "3Of_qPhnl3RCuszWiXlVwFIfk5Q",
+                    "id": "UgxJRPGIe1qACkU9vrV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "This video was 8 years ago, but what happened to Sam Bankman Fried last year is what said in the video.",
+                        "textOriginal": "This video was 8 years ago, but what happened to Sam Bankman Fried last year is what said in the video.",
+                        "authorDisplayName": "@computerscienceengineering8710",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZS-UD0mjA6ZhEj_ebUfomFv8NDYZdCke_-co5sA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@computerscienceengineering8710",
+                        "authorChannelId": {
+                            "value": "UCgSXLFaEvKBWbwjjHo3W6CQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-01-24T04:18:03Z",
+                        "updatedAt": "2024-01-24T04:18:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "FzXT-cHdORnJzy-PGeiHVBk6-Y8",
+                        "id": "UgxJRPGIe1qACkU9vrV4AaABAg.9zwY9z9YWlyA-Tkz_Q0xiC",
+                        "snippet": {
+                            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                            "videoId": "_VB39Jo8mAQ",
+                            "textDisplay": "Hi",
+                            "textOriginal": "Hi",
+                            "parentId": "UgxJRPGIe1qACkU9vrV4AaABAg",
+                            "authorDisplayName": "@Raj-dd1tj",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/BFp4jkFL4UtLlAvq8ir1-se4xTVnfT2DcjAMlTW1cUc8DTl6XUl_7jn1kuXsNFpxnZEf2Ulm=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@Raj-dd1tj",
+                            "authorChannelId": {
+                                "value": "UCWeOHYar41NLKbHC4U80tKw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2024-02-06T11:13:00Z",
+                            "updatedAt": "2024-02-06T11:13:00Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "_NWL__a5t4KAzfogsYPWrzgUecs",
+                        "id": "UgxJRPGIe1qACkU9vrV4AaABAg.9zwY9z9YWlyA-Tlfqs_90J",
+                        "snippet": {
+                            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                            "videoId": "_VB39Jo8mAQ",
+                            "textDisplay": "Hi",
+                            "textOriginal": "Hi",
+                            "parentId": "UgxJRPGIe1qACkU9vrV4AaABAg",
+                            "authorDisplayName": "@Raj-dd1tj",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/BFp4jkFL4UtLlAvq8ir1-se4xTVnfT2DcjAMlTW1cUc8DTl6XUl_7jn1kuXsNFpxnZEf2Ulm=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@Raj-dd1tj",
+                            "authorChannelId": {
+                                "value": "UCWeOHYar41NLKbHC4U80tKw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2024-02-06T11:19:03Z",
+                            "updatedAt": "2024-02-06T11:19:03Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "OcMPeaBIM1_XEs6akCb2o2sEUx4",
+            "id": "Ugy-_t6FGSzQcaYEJYF4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Lal56iziYyxDLuREfkXAjGK58pA",
+                    "id": "Ugy-_t6FGSzQcaYEJYF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "Brilliant",
+                        "textOriginal": "Brilliant",
+                        "authorDisplayName": "@beverleyyohanan9867",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSZTo_NdJh7XTcSJbnxLVlKgaCm9bByj_3HeNsAHQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@beverleyyohanan9867",
+                        "authorChannelId": {
+                            "value": "UC-kjC2JVH7j9Lv5AbElDsDA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-01-20T12:39:35Z",
+                        "updatedAt": "2024-01-20T12:39:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "4siTpQlN5dqnwN8pTAjmNUKBc8c",
+            "id": "Ugx7Kt7-FI62gmW1Ozt4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "q87rUKlnULnzj3-gdiQo0G6Xe_Q",
+                    "id": "Ugx7Kt7-FI62gmW1Ozt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "This is the start of a comment thread. 2024",
+                        "textOriginal": "This is the start of a comment thread. 2024",
+                        "authorDisplayName": "@zdwork-mg8wt",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZS9OgRVfuHPWqnBxabdZT38cd2b6jfrB9zv9h8avdCfH7ZEoyyV6OEdw_SPlGqh=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@zdwork-mg8wt",
+                        "authorChannelId": {
+                            "value": "UCC7uxlvpgsDb2TT3_wX7tHQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-01-18T07:28:51Z",
+                        "updatedAt": "2024-01-18T07:28:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "zOXZGqy7_ETgUbPEGLBN4860hIs",
+            "id": "Ugy0EJR6Bo3mfeIkhaR4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Gn8ZzU3HXFUfzVJZSGSKmYdYtBk",
+                    "id": "Ugy0EJR6Bo3mfeIkhaR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "This is the start of a comment thread.",
+                        "textOriginal": "This is the start of a comment thread.",
+                        "authorDisplayName": "@zdwork-mg8wt",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZS9OgRVfuHPWqnBxabdZT38cd2b6jfrB9zv9h8avdCfH7ZEoyyV6OEdw_SPlGqh=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@zdwork-mg8wt",
+                        "authorChannelId": {
+                            "value": "UCC7uxlvpgsDb2TT3_wX7tHQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-01-18T07:28:14Z",
+                        "updatedAt": "2024-01-18T07:28:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "pikSrwraamEoVKIq1W2skMXsfMU",
+            "id": "UgyUblhNlygF1DNO8ex4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "64tfbZx_qVlcUy4ZHEz5owdfFNg",
+                    "id": "UgyUblhNlygF1DNO8ex4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "Wow, amazing video",
+                        "textOriginal": "Wow, amazing video",
+                        "authorDisplayName": "@PersediPL",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQsoJ1_dJb2v23SoibuzMgkZAUug7DT6JD5rVju=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@PersediPL",
+                        "authorChannelId": {
+                            "value": "UCq1Sx31_mPqZ--dboO5YgZA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-12-12T10:51:11Z",
+                        "updatedAt": "2023-12-12T10:51:11Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UYnvQ5_GReH_RKm0SD0uvXh4mks",
+            "id": "Ugwo09-f0k1JkUMotBp4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Rfwn6VBq5pS0waRjUkgUVa7T_PU",
+                    "id": "Ugwo09-f0k1JkUMotBp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "This is the start of a comment thread.",
+                        "textOriginal": "This is the start of a comment thread.",
+                        "authorDisplayName": "@c03lh09",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTQpYgvft-mTlek5oqYBIf97HSALkrUHMI1OeSB=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@c03lh09",
+                        "authorChannelId": {
+                            "value": "UCCJJyzxlUzcoVDeNkTqMf-Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-18T22:27:40Z",
+                        "updatedAt": "2023-11-18T22:27:40Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Pp_qYwWxJKTgChPcW9o8wRaZ_oQ",
+            "id": "UgyoX1KsTZELUiULNHl4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "sR2HwbzyS-jBRxNjjxtsquwMGAo",
+                    "id": "UgyoX1KsTZELUiULNHl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "Damn. this hits hard.",
+                        "textOriginal": "Damn. this hits hard.",
+                        "authorDisplayName": "@harshnavaleofficial",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LMLR01A1W8qHTy6mdBxcFERK4fi0Qh82OxTVRbxMFuF4w42wiH0L84QN9HNYV45HfJ35aIyR=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@harshnavaleofficial",
+                        "authorChannelId": {
+                            "value": "UC0Xha5xcMGQ50D3GzPb9DLA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-09-07T06:04:39Z",
+                        "updatedAt": "2023-09-07T06:04:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "aeuEWG_SPexCzMScLEsSkuo6Ugg",
+                        "id": "UgyoX1KsTZELUiULNHl4AaABAg.9uLos3JsCWR9vD67xzmL8M",
+                        "snippet": {
+                            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                            "videoId": "_VB39Jo8mAQ",
+                            "textDisplay": "It still does!",
+                            "textOriginal": "It still does!",
+                            "parentId": "UgyoX1KsTZELUiULNHl4AaABAg",
+                            "authorDisplayName": "@Chadbelerique",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRJPJwljXkUF9WmXy_tb_Ur1YLu4ocALhhydn3gVxMwvk7Sqq9fKfnzDp--ihCu=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@Chadbelerique",
+                            "authorChannelId": {
+                                "value": "UC8qc5YuWeWhaw0opn-wXnyg"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2023-09-28T17:22:28Z",
+                            "updatedAt": "2023-09-28T17:22:28Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "RnkBntljkgnz22eH6_syW8uglyM",
+            "id": "UgwzPUrRGeLiY9am4c54AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "CoV_nhgOBy3aHzgwY-Gy3JeklaE",
+                    "id": "UgwzPUrRGeLiY9am4c54AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "Moral of the story is that money is an allusion, but it has a very real consequences.",
+                        "textOriginal": "Moral of the story is that money is an allusion, but it has a very real consequences.",
+                        "authorDisplayName": "@christiansamaroo",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZQsCKXhPKN0oQG7ISAOI7bVW19yfrKSJBRuDA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@christiansamaroo",
+                        "authorChannelId": {
+                            "value": "UCyuM7SoTgQa9Jdu2OxOCk9A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-07-29T05:49:17Z",
+                        "updatedAt": "2023-07-29T05:49:17Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "yO_AO_Jnt55f7h0vfvsa_u3MYsU",
+            "id": "Ugx_i02QBBcSBveTcId4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "GjEZ76MTojDI5_KEeC7Bv_JEt7g",
+                    "id": "Ugx_i02QBBcSBveTcId4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "Я с канала онигири)",
+                        "textOriginal": "Я с канала онигири)",
+                        "authorDisplayName": "@user-fj8mz5dj4k",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSFqYX6D3a9XLyxSQ3fc3sUpnykkMYqG0S7QvKfEA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@user-fj8mz5dj4k",
+                        "authorChannelId": {
+                            "value": "UCG9gUnB7gdiKOMbDN26b7vQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 8,
+                        "publishedAt": "2023-07-19T08:41:05Z",
+                        "updatedAt": "2023-07-19T08:41:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "4_w0yxXl-JT6PIP0zOExLMOZq98",
+                        "id": "Ugx_i02QBBcSBveTcId4AaABAg.9sLM1BkOjty9sWAn_Aj5oK",
+                        "snippet": {
+                            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                            "videoId": "_VB39Jo8mAQ",
+                            "textDisplay": "тоже)",
+                            "textOriginal": "тоже)",
+                            "parentId": "Ugx_i02QBBcSBveTcId4AaABAg",
+                            "authorDisplayName": "@mapper7221",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZRSvneOJTCSvZ_bccqHI4TxFyiNX5bU9PjlWsPZ=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@mapper7221",
+                            "authorChannelId": {
+                                "value": "UCn_7ph5Ltyh5HRX3Lpd12gQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2023-07-23T13:34:37Z",
+                            "updatedAt": "2023-07-23T13:34:37Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "m1-EEuG3E9mDct0Jf6S1_fx1uOQ",
+            "id": "Ugx8IBrZCreL8hAhWcB4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "bNUexWaswtG5Xbn3yzEk-t2N8ZI",
+                    "id": "Ugx8IBrZCreL8hAhWcB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "Fabricated story",
+                        "textOriginal": "Fabricated story",
+                        "authorDisplayName": "@timyjoned7783",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/wydZIYSV1czN2Nm2Z9T8WZ9ph7WYFrXu_LH7dPOkiF06wjqJpsnVrR3xnN1coEcMueSq9MBG1w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@timyjoned7783",
+                        "authorChannelId": {
+                            "value": "UCWWuyUFkvQQWU6na5mystpg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-07-01T15:39:20Z",
+                        "updatedAt": "2023-07-01T15:39:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "g3lAwsQ959pvnhr3bd2gCHGriz0",
+            "id": "Ugx7NNwiies8B7Je32J4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "U1yhEejRuoktbBGSB4ef5h00DnQ",
+                    "id": "Ugx7NNwiies8B7Je32J4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "Why should people pay for the government&#39;s printing? First the government needs to pay for all the money it created in natural resources and then we&#39;ll be talking.",
+                        "textOriginal": "Why should people pay for the government's printing? First the government needs to pay for all the money it created in natural resources and then we'll be talking.",
+                        "authorDisplayName": "@deliq9607",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/A5gHpOYtqK1BzXp6FMqDl-SokrisJmm6beA3cenmkPicWqe5kSbyFNBHlIeaf_SsCiCu_N7DAA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@deliq9607",
+                        "authorChannelId": {
+                            "value": "UCinpVtHAEFJozvAp1jqOlfw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-06-26T15:28:52Z",
+                        "updatedAt": "2023-06-26T15:28:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "r8LsxvRzWCX9rEcBnZ7p2BdVMbA",
+            "id": "Ugz-46a7P7VDNy815MN4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "FYAWcv8aaX_4j03673xtv7YlYvM",
+                    "id": "Ugz-46a7P7VDNy815MN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "speak well",
+                        "textOriginal": "speak well",
+                        "authorDisplayName": "@user-vj9ye7ot4b",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZTarWH0mIIvqFEKrDJO4qOsd_fnREFqPgAvig=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@user-vj9ye7ot4b",
+                        "authorChannelId": {
+                            "value": "UC5WaBdGo714ZbJew1-iOS7Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-06-12T09:36:19Z",
+                        "updatedAt": "2023-06-12T09:36:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "9GRjw1sv0-5mMiteBwJpKSGo9jY",
+            "id": "UgyEuG0wREid1ekgxX14AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6YqEnJ9DG7_3bGSKoj69eWjgAq4",
+                    "id": "UgyEuG0wREid1ekgxX14AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "Just to point out it has become very clear, it was stagnant wages, which have not been increasing with worker productivity that caused debt to increase. Not money becoming sort of more intangible.",
+                        "textOriginal": "Just to point out it has become very clear, it was stagnant wages, which have not been increasing with worker productivity that caused debt to increase. Not money becoming sort of more intangible.",
+                        "authorDisplayName": "@Alex-cw3rz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSiWiKBgA8CPfJIWfDhiVMkjHQ7Vkto8-8si-eMx9seUBTA_JpNrBhvdnnxXZwy=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Alex-cw3rz",
+                        "authorChannelId": {
+                            "value": "UCdzwSqzjr25gtTVKbGnoi2w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-04-06T00:45:58Z",
+                        "updatedAt": "2023-04-06T00:48:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "FG_inNrZnCjvAwTZmODxhosPYv8",
+            "id": "UgyI3LdbUz63ptzG3LN4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OTTNiOEHp_Bmg08mxqQ46JqgEoQ",
+                    "id": "UgyI3LdbUz63ptzG3LN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "<a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ&amp;t=480\">8:00</a> So basically the plot of Trading Places.",
+                        "textOriginal": "8:00 So basically the plot of Trading Places.",
+                        "authorDisplayName": "@reggiethecommenter9137",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZS8T8_3VlxUDGvrXcQOnAyD7zxj3HqfY4_MaOA8_Dd0z45FTqUP67l_zaIDs_Jx=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@reggiethecommenter9137",
+                        "authorChannelId": {
+                            "value": "UCbKbEb77FOZGMLUqRg0eTlg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-03-27T03:42:35Z",
+                        "updatedAt": "2023-03-27T03:42:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "puZs8QX_HQw_fxh1ndWlY8sEnFk",
+            "id": "UgyzE7AIgiVDZPiGVPZ4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mk3XXE-pp7spOUt5JkwabYdoKEk",
+                    "id": "UgyzE7AIgiVDZPiGVPZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "ISNT THIS THE SIX FLAGS GUY MASCOT &quot;WE LIKE TO PARTY WE LIKE WE LIKE TO PARTY&quot;",
+                        "textOriginal": "ISNT THIS THE SIX FLAGS GUY MASCOT \"WE LIKE TO PARTY WE LIKE WE LIKE TO PARTY\"",
+                        "authorDisplayName": "@brian2970",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZR_xJgI5t01OawDIcEXyee2fHCE2Qq96whgOu2z32uvwgP16_1luUhBOaEQ_luo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@brian2970",
+                        "authorChannelId": {
+                            "value": "UCYiZ1wzSK-A-USYfNTbgecg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-03-24T12:41:57Z",
+                        "updatedAt": "2023-03-24T12:41:57Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "TXgYcOYH9_4cTuV_rd21cEJtQZE",
+            "id": "Ugx-OtfEBVb-LLkEm2l4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "EuW8KvQGbcOAB92CGMar9V3relg",
+                    "id": "Ugx-OtfEBVb-LLkEm2l4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "I explained to my kids early on: If you owe the credit card company $500.00 at the end of the month.....and you pay $499.99 (one cent short) of it back....they will charge you interest  on the whole $500.00 you borrowed. It sounds crooked but that&#39;s what will happen....Always, ALWAYS pay the balance no matter what...or the cycle starts and you may never get out of it. Now days...the only thing they owe money on is their house...maybe a car......but that&#39;s it. I&#39;ve never bought a car on terms....my 3 houses are paid off and I&#39;m worth about 3 mil. I own a small, successful plumbing business.",
+                        "textOriginal": "I explained to my kids early on: If you owe the credit card company $500.00 at the end of the month.....and you pay $499.99 (one cent short) of it back....they will charge you interest  on the whole $500.00 you borrowed. It sounds crooked but that's what will happen....Always, ALWAYS pay the balance no matter what...or the cycle starts and you may never get out of it. Now days...the only thing they owe money on is their house...maybe a car......but that's it. I've never bought a car on terms....my 3 houses are paid off and I'm worth about 3 mil. I own a small, successful plumbing business.",
+                        "authorDisplayName": "@readmore3634",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/PA-dbvGSewKMtdGWLxi-Wg5sFX2_LhhW6V4nO4OmcbpUOQwCYXvgSbPkA9ZSSEL0wq4U369TeA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@readmore3634",
+                        "authorChannelId": {
+                            "value": "UCv56OVFYQ4TuF3_4Or-1-bg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-03-21T04:05:25Z",
+                        "updatedAt": "2023-03-21T04:05:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "sAViGgevheQQPVh7okb39h0DLoE",
+            "id": "UgxU-jeT-AjkY5tkuGR4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "JIc4J5YXYF7zTNm26PUThb8Eldw",
+                    "id": "UgxU-jeT-AjkY5tkuGR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "I would have played like your youngest kid normally does... by and buy and buy cause at some point someone wants that property cause it completes the set...",
+                        "textOriginal": "I would have played like your youngest kid normally does... by and buy and buy cause at some point someone wants that property cause it completes the set...",
+                        "authorDisplayName": "@dakotapeters5654",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/uf1K6MpXzwNd6uCIIPHbLoWAB7dR9H6WH-PVNO7uMPj1SZf2ODZCmFkvqWwiq3fkjL8BNQAyaCg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@dakotapeters5654",
+                        "authorChannelId": {
+                            "value": "UCuJ_rnRzx_UeX4sxxPU-FbQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-03-16T20:56:53Z",
+                        "updatedAt": "2023-03-16T20:56:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "qCGZlXAoU8x3lTvjFCB92Ov5fqo",
+                        "id": "UgxU-jeT-AjkY5tkuGR4AaABAg.9nKns0P5Iq89nKsfdBFpuN",
+                        "snippet": {
+                            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                            "videoId": "_VB39Jo8mAQ",
+                            "textDisplay": "To add to it. Very few seem to care about the inequality and imbalances, probably cause there is more than 50% able to get by. However, the ones making the bottom 2% of money are the 20%-40% of the lower end population doing the jobs that take the most toll on they&#39;re bodies causing them to have to spend that much more on hospital bills and never able to catch up dieing on debt cause they work they&#39;re whole life&#39;s just to keep things floating and even if they did quit and find other jobs well let&#39;s face it they don&#39;t get those jobs that make easy money. And nobody that&#39;s within the to 20%-40% want to or would even attempt to work those jobs when they did quit. Not when they are the ones making at least 80% or more of the money... it&#39;s not balanced, and the rich wouldn&#39;t want it to be balanced... they feel they are worth more cause they used their head more and earned it. It&#39;s not true at all. If all the bottom 20%-40% just banded together one day and decided we&#39;re going to let the top 60%-80% fend for themselves, then the top 60%-80% wouldn&#39;t have no food water power electricity etc... cause all of the employees would have quit work. At least up to the point that nobody who knows how to do the work that keeps everyone alive is still working or helping the rest out... what would they do then... if they tried to force us that are in poverty to get back to work, they would have a fight on their hands that they couldn&#39;t win... and there are studies out there proving that just book knowledge isn&#39;t enough to get by when it comes to doing the jobs. So they would be screwed. Very few would survive being that they got lucky, and that&#39;s not saying they would survive long. Just survive. Not thrive. Just barely scrape by... just wait another generation, maybe 2. If it continues like it is going, then that&#39;s probably going to be exactly what happens.... not to come across with a negative outlook but speaking with truth cause I&#39;ve been hearing it my whole life growing up. But the upper-class and upper middle class haven&#39;t because most of them didn&#39;t start in poverty, and poverty then was the same as poverty now... I wonder if we got another Boston ☕️ party situation coming soon... if there is something we ought to know, it&#39;s better to confess it instead of having someone else blow the whistle on it all... at least then, there is a chance of fixing mistakes and making amendments. However, if there is something being hidden and those that are hidden from finding out about it or when they say enough is enough, then it&#39;s most likely too late... that&#39;s all just hypothetical, of course. Hopefully, things get solved. For the greater good of all. Funny that I&#39;ve only ever heard for the greater good when it comes to war and genocide ot things like that. But the only time it would actually be for the greater good of all would be now and times like now whenever there&#39;s imbalances that tip the scale of equality too much. 😉 something to think on. I&#39;ve been working slowly at articulating some big thoughts on the infrastructure &amp; structure of government and uniting everybody, but I have more work to do.🎉😊 have a good day",
+                            "textOriginal": "To add to it. Very few seem to care about the inequality and imbalances, probably cause there is more than 50% able to get by. However, the ones making the bottom 2% of money are the 20%-40% of the lower end population doing the jobs that take the most toll on they're bodies causing them to have to spend that much more on hospital bills and never able to catch up dieing on debt cause they work they're whole life's just to keep things floating and even if they did quit and find other jobs well let's face it they don't get those jobs that make easy money. And nobody that's within the to 20%-40% want to or would even attempt to work those jobs when they did quit. Not when they are the ones making at least 80% or more of the money... it's not balanced, and the rich wouldn't want it to be balanced... they feel they are worth more cause they used their head more and earned it. It's not true at all. If all the bottom 20%-40% just banded together one day and decided we're going to let the top 60%-80% fend for themselves, then the top 60%-80% wouldn't have no food water power electricity etc... cause all of the employees would have quit work. At least up to the point that nobody who knows how to do the work that keeps everyone alive is still working or helping the rest out... what would they do then... if they tried to force us that are in poverty to get back to work, they would have a fight on their hands that they couldn't win... and there are studies out there proving that just book knowledge isn't enough to get by when it comes to doing the jobs. So they would be screwed. Very few would survive being that they got lucky, and that's not saying they would survive long. Just survive. Not thrive. Just barely scrape by... just wait another generation, maybe 2. If it continues like it is going, then that's probably going to be exactly what happens.... not to come across with a negative outlook but speaking with truth cause I've been hearing it my whole life growing up. But the upper-class and upper middle class haven't because most of them didn't start in poverty, and poverty then was the same as poverty now... I wonder if we got another Boston ☕️ party situation coming soon... if there is something we ought to know, it's better to confess it instead of having someone else blow the whistle on it all... at least then, there is a chance of fixing mistakes and making amendments. However, if there is something being hidden and those that are hidden from finding out about it or when they say enough is enough, then it's most likely too late... that's all just hypothetical, of course. Hopefully, things get solved. For the greater good of all. Funny that I've only ever heard for the greater good when it comes to war and genocide ot things like that. But the only time it would actually be for the greater good of all would be now and times like now whenever there's imbalances that tip the scale of equality too much. 😉 something to think on. I've been working slowly at articulating some big thoughts on the infrastructure & structure of government and uniting everybody, but I have more work to do.🎉😊 have a good day",
+                            "parentId": "UgxU-jeT-AjkY5tkuGR4AaABAg",
+                            "authorDisplayName": "@dakotapeters5654",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/uf1K6MpXzwNd6uCIIPHbLoWAB7dR9H6WH-PVNO7uMPj1SZf2ODZCmFkvqWwiq3fkjL8BNQAyaCg=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/@dakotapeters5654",
+                            "authorChannelId": {
+                                "value": "UCuJ_rnRzx_UeX4sxxPU-FbQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2023-03-16T21:38:53Z",
+                            "updatedAt": "2023-03-16T21:38:53Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "njSnlyb8ZgHTG5JapG5VknvPyqs",
+            "id": "UgzAaOv5cyEFPaSZrAl4AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "O0oBZB3f8qpAZUVDPr5zoLSGhYg",
+                    "id": "UgzAaOv5cyEFPaSZrAl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "I’m 37 I didn’t buy myself new clothes for 12 years only thrift stores I have been wearing another man’s clothing my entire life I finally got a credit card and all I wanted was some new clothes I finally bought some and all my mom could say was how wasteful I was it’s sad cause I personally by myself no help built every house my family lives in and yet my room is totally unfinished but everyone else has nice stuff seems to me that money is real enough for a lot of people just not me",
+                        "textOriginal": "I’m 37 I didn’t buy myself new clothes for 12 years only thrift stores I have been wearing another man’s clothing my entire life I finally got a credit card and all I wanted was some new clothes I finally bought some and all my mom could say was how wasteful I was it’s sad cause I personally by myself no help built every house my family lives in and yet my room is totally unfinished but everyone else has nice stuff seems to me that money is real enough for a lot of people just not me",
+                        "authorDisplayName": "@christopherfodor8236",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSx-fakrqzaSYBfCUy9Ze8sJg6LV5n0LuEDEg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@christopherfodor8236",
+                        "authorChannelId": {
+                            "value": "UCA5Q6EQs40lDTK6sVwbzk5w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-03-07T13:52:18Z",
+                        "updatedAt": "2023-03-07T13:52:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wFNNCFdG0GHLclvL9ts9LmJ5-EM",
+            "id": "UgyX6FV4keUDObAdHc54AaABAg",
+            "snippet": {
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "videoId": "_VB39Jo8mAQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "XkSla0ozZaill5uU3c-2zFbPYGU",
+                    "id": "UgyX6FV4keUDObAdHc54AaABAg",
+                    "snippet": {
+                        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                        "videoId": "_VB39Jo8mAQ",
+                        "textDisplay": "That&#39;s why casinos use chips and not actual notes or coins. It&#39;s not real money, therefore it&#39;s easier to lose it.<br>Money doesn&#39;t seem real, therefore it doesn&#39;t matter...",
+                        "textOriginal": "That's why casinos use chips and not actual notes or coins. It's not real money, therefore it's easier to lose it.\nMoney doesn't seem real, therefore it doesn't matter...",
+                        "authorDisplayName": "@jamesspry3294",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIf8zZSycDlqANoffk2k4NsxP7Tr76pFch5RxGLHFA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@jamesspry3294",
+                        "authorChannelId": {
+                            "value": "UC662idiqGN2wEIZiJ4Ph8UQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-03-03T23:06:49Z",
+                        "updatedAt": "2023-03-03T23:06:49Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}
